@@ -185,6 +185,35 @@ allow more material in a paper while remaining easy on the eyes
 format requires 11 with the SIGPLAN format, and most readers find the
 SIGPLAN style easier to read).
 
+Appeals Procedure
+-----------------
+
+SIGPLAN-sponsored conferences ought to have an appeals procedure
+in place. SIGPLAN EC proposes the following default
+appeals policy:
+
+> In accordance with ACM Policy, SIGPLAN considers the decisions
+> of Program Chairs, made on technical grounds, to be final;
+> however, appeals may be made on the basis of allegations of
+> serious violations of ethics or due process in the handling of a
+> submitted paper.
+>
+> To appeal a decision on such grounds, an author must send a
+> written letter supporting such allegations to the Steering
+> Committee Chair of the conference, within 30 days of the
+> transmission of the decision of the Program Committee.
+>
+> Appeals will be handled by the Steering Committee Chair and the
+> SIGPLAN Vice Chair. Due process will be afforded to all appeals
+> and decisions will be rendered in a timely manner. If a decision
+> is unsatisfactory to an author, the decision may be further
+> appealed in accordance with the 
+> [published ACM Policy](http://www.acm.org/publications/policies/appeals/).
+
+SIGPLAN-sponsored conferences are most welcome to establish an
+alternative policy; if they don't, they will inherit the SIGPLAN
+policy above.
+
 Managing the Proceedings
 ------------------------
 
